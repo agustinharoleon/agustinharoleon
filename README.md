@@ -1,4 +1,4 @@
- Hi, I'm Agus 👋  
+# Hi, I'm Agus 👋  
 
 ## 🔥 About Me  
 🔹 **Data Scientist | Data Analyst | Sociologist**  
