@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**agustinharoleon/agustinharoleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 About Me
+Data Scientist | Data Analyst | Sociologist with expertise in electoral analysis, survey data, public health, and eCommerce. Passionate about transforming data into actionable insights through statistical analysis, machine learning, and data visualization.
 
-Here are some ideas to get you started:
+🛠 Tech Stack
+🔹 Languages: Python, SQL, R
+🔹 Data Analysis: Pandas, NumPy, Scikit-learn
+🔹 Visualization: Tableau, Power BI, Matplotlib, Seaborn
+🔹 Databases: PostgreSQL, MySQL
+🔹 ML & NLP: Predictive modeling, clustering, text analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Projects
+📊 Electoral & Survey Analysis – Trends & predictions
+🏥 Public Health Analytics – Data-driven policy insights
+🛒 eCommerce Data Science – Consumer behavior & optimization
