@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Agus👋
 
 💡 About Me
 Data Scientist | Data Analyst | Sociologist with expertise in electoral analysis, survey data, public health, and eCommerce. Passionate about transforming data into actionable insights through statistical analysis, machine learning, and data visualization.
